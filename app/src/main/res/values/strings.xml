@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Voice Control</string>
+    <string name="accessibility_service_description">Voice Control ko is service ki zaroorat hai taake ye buttons dabaye, apps kholay aur screen control kare aap ki voice command se.</string>
+</resources>
